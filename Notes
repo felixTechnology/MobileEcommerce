@@ -1,0 +1,19 @@
+1. Go to google font (https://fonts.google.com/)
+
+2. Go to (glidejs.com/docs/setup)
+- Cope: <!-- Required Core Stylesheet -->
+        <link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.core.min.css">
+
+        <!-- Optional Theme Stylesheet -->
+        <link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.theme.min.css">
+- Scroll down and copy the script js part
+<script src="node_modules/@glidejs/glide/dist/glide.min.js"></script>
+
+3. Go to (michalsnik.github.io/aos/)
+-Scroll down and copy the (css link)
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+- Copy the Js (<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>)
+- <script>
+   AOS.init();
+ </script>
